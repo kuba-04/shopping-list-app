@@ -1,6 +1,7 @@
 # ShoppingListApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
+This is a demo project I am building while following Maximilian Schwarzmuller's Udemy course (https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview)
 
 ## Development server
 
